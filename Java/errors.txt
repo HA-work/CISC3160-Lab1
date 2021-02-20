@@ -1,0 +1,37 @@
+ Hassan Akbar
+ CISC 3160
+ Professor Chuang
+ HW 1
+
+List of errors and line they appear on
+
+Error Number: 1
+Error on Line Number : 69
+67,"10,000 Hours (with Justin Bieber)","Dan + Shay",9632834,https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa
+
+Error Number: 2
+Error on Line Number : 84
+83,"Yah Yah (feat. Royce Da 5'9"", Black Thought, Q-Tip & Denaun)",Eminem,8695060,https://open.spotify.com/track/5mZXWEH2eh8zMZGCxT5aW0
+
+Error Number: 3
+Error on Line Number : 113
+113,"I Will (feat. KXNG Crooked, Royce Da 5'9"" & Joell Ortiz)",Eminem,7115414,https://open.spotify.com/track/3CJbxqRQ0JNCqboWDNUUeX
+
+Error Number: 4
+Error on Line Number : 115
+116,"Alone, Pt. II","Alan Walker",7047512,https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3
+
+Error Number: 5
+Error on Line Number : 143
+145,"Yo x Ti, Tu x Mi",ROSALÍA,6325620,https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk
+
+Error Number: 6
+Error on Line Number : 166
+169,"thank u, next","Ariana Grande",5632983,https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ
+
+Error Number: 7
+Error on Line Number : 189
+193,"DJ No Pare (feat. Zion, Dalex, Lenny Tavárez) - Remix","Justin Quiles",5273730,https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6
+
+
+Number of Errors: 7

@@ -1,0 +1,116 @@
+ Hassan Akbar
+ CISC 3130
+ Professor Chuang
+ HW 1
+
+Number of Songs Read in: 193
+Number of Artists Read in: 105
+Total Views: 2037432138
+Number of Errors: 7
+
+Artist Name               Times Appeared            Artist Views             
+Tones and I               2                         56968546                 
+Roddy Ricch               2                         57681276                 
+KAROL G                   1                         41434019                 
+Eminem                    16                        206375712                
+Justin Bieber             1                         34586419                 
+Future                    1                         34200687                 
+The Weeknd                2                         42533979                 
+Arizona Zervas            2                         38704137                 
+Trevor Daniel             1                         28606316                 
+Dua Lipa                  1                         28228768                 
+Maroon 5                  2                         30140296                 
+Post Malone               6                         62759638                 
+Billie Eilish             6                         66241277                 
+Mac Miller                12                        117343675                
+The Black Eyed Peas       1                         21103190                 
+Halsey                    4                         42817104                 
+Lewis Capaldi             3                         40336443                 
+Shawn Mendes              2                         24580937                 
+BTS                       2                         24206386                 
+Selena Gomez              3                         41406235                 
+Harry Styles              4                         41894843                 
+Camila Cabello            2                         21802770                 
+Jonas Brothers            3                         27929440                 
+Dimelo Flow               1                         15207363                 
+blackbear                 2                         21625930                 
+Bad Bunny                 2                         23543486                 
+DaBaby                    4                         36231062                 
+Regard                    1                         14011559                 
+YNW Melly                 2                         19382283                 
+Don Toliver               1                         13281093                 
+Rauw Alejandro            1                         12612009                 
+Dalex                     2                         19604102                 
+MEDUZA                    2                         18658663                 
+Doja Cat                  1                         12325839                 
+Anuel AA                  1                         11911525                 
+BROCKHAMPTON              1                         11904637                 
+Travis Scott              4                         31936417                 
+Tyga                      1                         11820301                 
+Ed Sheeran                5                         43890386                 
+Juice WRLD                3                         28262344                 
+Mustard                   1                         11242147                 
+Shakira                   1                         11157044                 
+J Balvin                  4                         33316451                 
+Lil Uzi Vert              1                         10699707                 
+SAINt JHN                 1                         10422551                 
+Nicky Jam                 2                         19783807                 
+Khalid                    1                         9835375                  
+JP Saxe                   1                         9600536                  
+Y2K                       1                         9129776                  
+Juju                      1                         9118365                  
+SHAED                     1                         8918528                  
+Jhay Cortez               1                         8825480                  
+Tainy                     1                         8623148                  
+Ariana Grande             1                         8553234                  
+Sam Smith                 2                         14347693                 
+Lady Gaga                 1                         8223523                  
+Daddy Yankee              2                         13310405                 
+Ant Saunders              1                         7910766                  
+Lil Nas X                 1                         7910494                  
+Stormzy                   1                         7909077                  
+Lil Tecca                 1                         7877635                  
+Ali Gatie                 1                         7757509                  
+Lauv                      2                         12827092                 
+Lunay                     2                         13583579                 
+Noah Cyrus                1                         7419268                  
+Marshmello                1                         7358042                  
+Rich Music LTD            2                         13005386                 
+Lil Baby                  2                         13586782                 
+Imagine Dragons           1                         6807552                  
+Reik                      1                         6802014                  
+Red Velvet                1                         6737905                  
+Henrique & Juliano        1                         6736976                  
+Drake                     1                         6598862                  
+Matthew Wilder            1                         6596199                  
+Sech                      2                         11853892                 
+JACKBOYS                  1                         6550101                  
+Queen                     1                         6488962                  
+Surfaces                  1                         6450550                  
+Lizzo                     2                         12246195                 
+Camilo                    1                         6327743                  
+Ellie Goulding            1                         6177336                  
+Ava Max                   1                         6030412                  
+Ufo361                    1                         6010373                  
+XXXTENTACION              3                         16701917                 
+Arcangel                  1                         5868668                  
+Kina                      2                         11651927                 
+Chris Brown               1                         5834488                  
+James Arthur              1                         5832673                  
+benny blanco              1                         5792803                  
+Kygo                      1                         5684696                  
+Gambi                     1                         5678754                  
+Maes                      1                         5656775                  
+DJ Snake                  1                         5561516                  
+Young Thug                1                         5485603                  
+Thiaguinho MT             1                         5464284                  
+Riton                     1                         5463950                  
+Piso 21                   1                         5461249                  
+Conan Gray                1                         5456506                  
+ROSALÍA                   1                         5442011                  
+Olivia Rodrigo            1                         5432071                  
+Dominic Fike              1                         5390516                  
+Panic! At The Disco       1                         5278651                  
+J. Cole                   1                         5241716                  
+Dean Lewis                1                         5167120                  
+5 Seconds of Summer       1                         5124680                  
